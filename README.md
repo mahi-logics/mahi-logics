@@ -4,9 +4,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahi-logics&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahi-logics&theme=tokyonight)
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahi-logics" alt="GitHub Streak" />
-</p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mahi-logics&show_icons=true&theme=dark)
 
 
 
@@ -18,4 +16,5 @@
 
 <!-- contribution Grap -->
 ![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=mahi-logics&theme=react-dark)
+
 
