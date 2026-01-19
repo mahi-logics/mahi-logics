@@ -1,9 +1,16 @@
 ## Hi 👋 I'm Shaidur Rahman Mahi
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mahi-logics&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
 🌱 Learning Frontend & Competitive Programming
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahi-logics&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahi-logics&theme=tokyonight)
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahi-logics&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 
 
