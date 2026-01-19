@@ -4,7 +4,8 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahi-logics)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahi-logics)
-![GitHub Streak](https://streak-stats.demolab.com?user=mahi-logics)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mahi-logics&show_icons=true&theme=dark)
+
 
 
 ### Skills
@@ -13,5 +14,5 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-Learning-yellow)
 
 <!-- contribution Grap -->
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=mahi-logics&theme=react-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=mahi-logics&theme=react-dark)
 
