@@ -4,6 +4,9 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahi-logics)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahi-logics)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahi-logics&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 
 
