@@ -2,10 +2,10 @@
 
 🌱 Learning Frontend & Competitive Programming
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahi-logics)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahi-logics)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahi-logics&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahi-logics&theme=tokyonight)
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahi-logics&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahi-logics" alt="GitHub Streak" />
 </p>
 
 
