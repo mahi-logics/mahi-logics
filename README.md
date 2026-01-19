@@ -4,7 +4,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahi-logics)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahi-logics)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mahi-logics&show_icons=true&theme=dark)
+
 
 
 
