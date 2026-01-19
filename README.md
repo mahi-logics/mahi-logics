@@ -1,9 +1,9 @@
-## Hi 👋 I'm Saidur Mahi
+## Hi 👋 I'm Shaidur Rahman Mahi
 
 🌱 Learning Frontend & Competitive Programming
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saidurmahi)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saidurmahi)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahi-logics)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahi-logics)
 
 ### Skills
 ![HTML](https://img.shields.io/badge/HTML-Learning-orange)
