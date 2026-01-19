@@ -9,7 +9,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahi-logics&theme=tokyonight)
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahi-logics&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=mahi-logics&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 
